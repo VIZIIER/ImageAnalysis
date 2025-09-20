@@ -32,7 +32,7 @@ It detects malicious payloads hidden inside images, steganography attempts, meta
    
 ---
 
-## 🖥️ Usage
+## Usage
 
 1. Lunch the app:
 ```
