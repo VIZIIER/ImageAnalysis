@@ -5,7 +5,7 @@ It detects malicious payloads hidden inside images, steganography attempts, meta
 
 ---
 
-## ✨ Features
+## Features
 - 🔐 **Cryptographic Hashes**: MD5, SHA1, SHA256
 - 📋 **File Structure Analysis**: Detect mismatched headers/extensions
 - 📊 **Metadata Extraction**: EXIF, PNG chunks, general metadata
@@ -17,22 +17,19 @@ It detects malicious payloads hidden inside images, steganography attempts, meta
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 <img width="727" height="1118" alt="image" src="https://github.com/user-attachments/assets/0b03ff13-8e15-46cd-993c-c8e1055a03a9" />
 
 
 ---
 
-## 🚀 Installation
+## Installation
 1. Clone the repository:
    ```
    git clone https://github.com/VIZIIER/ImageAnalysis.git
    cd ImageAnalysis
    ```
-2. Run with Python 3 (no external dependencies beyond standard library):
-   ```
-   python3 analyzer.py
-   ```
+   
 ---
 
 ## 🖥️ Usage
