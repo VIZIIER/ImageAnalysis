@@ -17,7 +17,7 @@ It detects malicious payloads hidden inside images, steganography attempts, meta
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 <img width="727" height="1118" alt="image" src="https://github.com/user-attachments/assets/0b03ff13-8e15-46cd-993c-c8e1055a03a9" />
 
 
